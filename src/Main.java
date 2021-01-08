@@ -4,7 +4,7 @@ public class Main {
 	// write your code here
         System.out.println("hello:");
 
-        Hamming ham = new Hamming( "Correction");
+        Hamming ham = new Hamming( "Correction1");
         ham.print();
     }
 }
