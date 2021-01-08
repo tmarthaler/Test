@@ -6,6 +6,6 @@ public class Hamming {
     }
 
     public void print() {
-        System.out.println("Name: "+name);
+        System.out.println("Hamming code: "+name);
     }
 }
